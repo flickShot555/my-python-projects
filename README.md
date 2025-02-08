@@ -1,3 +1,9 @@
-https://github.com/flickShot555/Web-Scrapper
+# Python Projects and Their Links
 
-https://github.com/flickShot555/Weather-App
+## Web Scrapper App
+  
+  https://github.com/flickShot555/Web-Scrapper
+
+## Weather Data Retriver App
+
+  https://github.com/flickShot555/Weather-App
